@@ -2,7 +2,7 @@ package com.example.tga.presentation
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.tga.data.Result
+import com.example.tga.data.model.Result
 import com.example.tga.data.GamesRepository
 import com.example.tga.data.model.Game
 import kotlinx.coroutines.channels.Channel

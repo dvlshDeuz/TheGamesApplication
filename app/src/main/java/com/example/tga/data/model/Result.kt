@@ -1,4 +1,4 @@
-package com.example.tga.data
+package com.example.tga.data.model
 
 sealed class Result<T>(
  val data: T? = null,
